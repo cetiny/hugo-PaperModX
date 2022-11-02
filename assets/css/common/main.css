@@ -186,7 +186,8 @@ pre:hover .copy-code {
 }
 
 .meta-item {
-    display: inline-block;
+    /*display: inline-block; */
+    display: inline; 
 }
 .meta-item * {
     color: var(--secondary);
